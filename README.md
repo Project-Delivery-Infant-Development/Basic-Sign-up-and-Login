@@ -1,1 +1,1 @@
-# Basic-Sign-up-and-Login
+Code to go along with the [Meteor Custom User Accounts tutorial](http://www.wsvincent.com/meteor-custom-login-and-signup-form/)
